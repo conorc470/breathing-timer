@@ -131,10 +131,10 @@ body {
 	}
 	@keyframes grow {
 		from {
-			transform: scale(0.4);
+			transform: scale(0.5);
 		}
 		to {
-			transform: scale(0.6);
+			transform: scale(0.5);
 		}
 	}
 	
@@ -143,10 +143,10 @@ body {
 	}
 	@keyframes shrink {
 		from {
-			transform: scale(0.6);
+			transform: scale(0.5);
 		}
 		to {
-			transform: scale(0.4);
+			transform: scale(0.5);
 		}
 	}
 }
